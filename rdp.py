@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 # Project: P2 CSC361
-# Student: Joshua Stein
-# Student number: V00951354
 
 # Example usage:
 # Restart echo server on R immediately before running this script: `cat fifo | tee fifo_input | nc -u -l -p 8888 | tee fifo`
